@@ -17,8 +17,44 @@ namespace aula1
             float media;
         // variável do tipo lógico (booleana)//
             bool resultado = false;
-            
-        Console.WriteLine(num2+ num5);
+            // variável do tipo texto (carateres)//
+            string nomeAluno;
+
+            //quebra a linhas//
+            Console.WriteLine();
+
+        //escreve em uma linha quebrando-a//
+            Console.WriteLine("Bem vindos a nossa primeira aplicação");
+
+            //continua escrevendo na mesma linha//
+            Console.Write("digite");
+            Console.Write(" seu nome:");
+
+        // capturo o dado digitando pelo usuário e salvo na variável//
+                    nomeAluno = Console.ReadLine();
+
+        // concatenação //
+            Console.WriteLine(nomeAluno  +  ", agora digite sua primeira nota:");
+
+        // converto o texto capturado//
+            num3 = int.Parse(  Console.ReadLine()  );
+
+        // interpolação//
+        Console.WriteLine($"Sua primeira nota é{ num3 }");
+
+        Console.WriteLine("digite sua segunda nota");
+        num4 = int.Parse( Console.ReadLine()  );
+
+        Console.WriteLine("digite sua terceira nota");
+        num5 = int.Parse( Console.ReadLine()  );
+
+        media = ( num3 + num4 + num5) / 3; 
+        Console.WriteLine("sua média é:" + media);
+
+
+
+
+
 
 
 
