@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\exerciciossenai\aula3-ex\bin\Debug\netcoreapp2.2\aula3-ex.deps.json
+C:\Users\fic\Desktop\exerciciossenai\aula3-ex\bin\Debug\netcoreapp2.2\aula3-ex.runtimeconfig.json
+C:\Users\fic\Desktop\exerciciossenai\aula3-ex\bin\Debug\netcoreapp2.2\aula3-ex.runtimeconfig.dev.json
+C:\Users\fic\Desktop\exerciciossenai\aula3-ex\bin\Debug\netcoreapp2.2\aula3-ex.dll
+C:\Users\fic\Desktop\exerciciossenai\aula3-ex\bin\Debug\netcoreapp2.2\aula3-ex.pdb
+C:\Users\fic\Desktop\exerciciossenai\aula3-ex\obj\Debug\netcoreapp2.2\aula3-ex.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\exerciciossenai\aula3-ex\obj\Debug\netcoreapp2.2\aula3-ex.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\exerciciossenai\aula3-ex\obj\Debug\netcoreapp2.2\aula3-ex.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\exerciciossenai\aula3-ex\obj\Debug\netcoreapp2.2\aula3-ex.AssemblyInfo.cs
+C:\Users\fic\Desktop\exerciciossenai\aula3-ex\obj\Debug\netcoreapp2.2\aula3-ex.dll
+C:\Users\fic\Desktop\exerciciossenai\aula3-ex\obj\Debug\netcoreapp2.2\aula3-ex.pdb
