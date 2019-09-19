@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\senai\aula2-4ex\1ex\obj\Debug\netcoreapp2.2\1ex.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\senai\aula2-4ex\1ex\obj\Debug\netcoreapp2.2\1ex.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\senai\aula2-4ex\1ex\obj\Debug\netcoreapp2.2\1ex.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\senai\aula2-4ex\1ex\obj\Debug\netcoreapp2.2\1ex.AssemblyInfo.cs
+C:\Users\fic\Desktop\senai\aula2-4ex\1ex\bin\Debug\netcoreapp2.2\1ex.deps.json
+C:\Users\fic\Desktop\senai\aula2-4ex\1ex\bin\Debug\netcoreapp2.2\1ex.runtimeconfig.json
+C:\Users\fic\Desktop\senai\aula2-4ex\1ex\bin\Debug\netcoreapp2.2\1ex.runtimeconfig.dev.json
+C:\Users\fic\Desktop\senai\aula2-4ex\1ex\bin\Debug\netcoreapp2.2\1ex.dll
+C:\Users\fic\Desktop\senai\aula2-4ex\1ex\bin\Debug\netcoreapp2.2\1ex.pdb
+C:\Users\fic\Desktop\senai\aula2-4ex\1ex\obj\Debug\netcoreapp2.2\1ex.dll
+C:\Users\fic\Desktop\senai\aula2-4ex\1ex\obj\Debug\netcoreapp2.2\1ex.pdb
