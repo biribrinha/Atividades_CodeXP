@@ -6,19 +6,26 @@ namespace ex3
     {
         static void Main(string[] args)
         {
-           //3) Escreva um algoritmo que leia um número n//
-           // e imprima todos os múltiplos de 5, no//
-           //intervalo de 1 a n.//
+          /* 
+                Escreva um algoritmo que leia um número n 
+                e imprima todos os múltiplos de 5, 
+                no intervalo de 1 a n. 
+            */
 
-           int num, mult=1;
-        /* variável num pra representar o número que o usuário vai colocae
-        variável mult pra representar os múltiplos de 5 */
-             
-             Console.WriteLine("escreva um número: ");
-             num= int.Parse(Console.ReadLine());
+            int n;
+            int cont = 1;
 
+            Console.Write("Digite um número: ");
+            n = int.Parse( Console.ReadLine() );
+
+            while(cont <= n){
+
+                if(cont % 5 == 0){
+                    Console.WriteLine(cont);
+                }
+                cont++;
              }
-           
+            }
         }
     }
 
