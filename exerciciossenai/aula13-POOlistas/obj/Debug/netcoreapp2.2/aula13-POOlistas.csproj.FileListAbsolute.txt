@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\senai\exerciciossenai\aula13-POOlistas\bin\Debug\netcoreapp2.2\aula13-POOlistas.deps.json
+C:\Users\fic\Desktop\senai\exerciciossenai\aula13-POOlistas\bin\Debug\netcoreapp2.2\aula13-POOlistas.runtimeconfig.json
+C:\Users\fic\Desktop\senai\exerciciossenai\aula13-POOlistas\bin\Debug\netcoreapp2.2\aula13-POOlistas.runtimeconfig.dev.json
+C:\Users\fic\Desktop\senai\exerciciossenai\aula13-POOlistas\bin\Debug\netcoreapp2.2\aula13-POOlistas.dll
+C:\Users\fic\Desktop\senai\exerciciossenai\aula13-POOlistas\bin\Debug\netcoreapp2.2\aula13-POOlistas.pdb
+C:\Users\fic\Desktop\senai\exerciciossenai\aula13-POOlistas\obj\Debug\netcoreapp2.2\aula13-POOlistas.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\senai\exerciciossenai\aula13-POOlistas\obj\Debug\netcoreapp2.2\aula13-POOlistas.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\senai\exerciciossenai\aula13-POOlistas\obj\Debug\netcoreapp2.2\aula13-POOlistas.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\senai\exerciciossenai\aula13-POOlistas\obj\Debug\netcoreapp2.2\aula13-POOlistas.AssemblyInfo.cs
+C:\Users\fic\Desktop\senai\exerciciossenai\aula13-POOlistas\obj\Debug\netcoreapp2.2\aula13-POOlistas.dll
+C:\Users\fic\Desktop\senai\exerciciossenai\aula13-POOlistas\obj\Debug\netcoreapp2.2\aula13-POOlistas.pdb

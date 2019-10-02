@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\senai\exerciciossenai\aula12-ex\bin\Debug\netcoreapp2.2\aula12-ex.deps.json
+C:\Users\fic\Desktop\senai\exerciciossenai\aula12-ex\bin\Debug\netcoreapp2.2\aula12-ex.runtimeconfig.json
+C:\Users\fic\Desktop\senai\exerciciossenai\aula12-ex\bin\Debug\netcoreapp2.2\aula12-ex.runtimeconfig.dev.json
+C:\Users\fic\Desktop\senai\exerciciossenai\aula12-ex\bin\Debug\netcoreapp2.2\aula12-ex.dll
+C:\Users\fic\Desktop\senai\exerciciossenai\aula12-ex\bin\Debug\netcoreapp2.2\aula12-ex.pdb
+C:\Users\fic\Desktop\senai\exerciciossenai\aula12-ex\obj\Debug\netcoreapp2.2\aula12-ex.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\senai\exerciciossenai\aula12-ex\obj\Debug\netcoreapp2.2\aula12-ex.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\senai\exerciciossenai\aula12-ex\obj\Debug\netcoreapp2.2\aula12-ex.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\senai\exerciciossenai\aula12-ex\obj\Debug\netcoreapp2.2\aula12-ex.AssemblyInfo.cs
+C:\Users\fic\Desktop\senai\exerciciossenai\aula12-ex\obj\Debug\netcoreapp2.2\aula12-ex.dll
+C:\Users\fic\Desktop\senai\exerciciossenai\aula12-ex\obj\Debug\netcoreapp2.2\aula12-ex.pdb
