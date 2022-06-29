@@ -1,4 +1,4 @@
-# senai
+# Atividades code
 atividades realizadas no curso Code XP do Senai de informática
 
 ### O Code XP é um curso profissionalizante de desenvolvimento FullStack.
